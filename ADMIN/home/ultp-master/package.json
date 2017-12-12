@@ -1,0 +1,28 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "proyecto con api y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jazmin Torres",
+  "license": "MIT",
+  "dependencies": {
+    "angular-ui-router": "^0.4.3",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "bower": "^1.8.2",
+    "brew": "0.0.8",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.19.3",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
