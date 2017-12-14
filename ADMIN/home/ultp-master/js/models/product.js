@@ -10,10 +10,8 @@ const ProductSchema = Schema({
     },
     description: String,
 
-    images: {
-        type: String,
-    
-    },
+    images: String,
+        
 
     stock: Number,
 
